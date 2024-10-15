@@ -1,3 +1,4 @@
-function sayhello61() {alert('Hello,Funcion'!);}
-function saygoodbye() {alert('Goodbye'.);}
+function sayhello61() {alert('Hello,Function!');}
+
+function saygoodbye() {alert('Goodbye.');}
 
