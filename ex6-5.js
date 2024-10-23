@@ -10,5 +10,5 @@ function hanako65(){
 }
 function taro66() {alert('太郎が来た');
                   }
-function taro66() {alert('太郎が来た'); 
+function hanako66() {alert('花子が来た'); 
                   }
