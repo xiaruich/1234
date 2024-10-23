@@ -8,7 +8,8 @@ function taro65(){
 function hanako65(){
   who65='花子';
 }
-function taro66() {alert('太郎が来た');
-                  }
-function hanako66() {alert('花子が来た'); 
-                  }
+function saygoodbye() {alert('Goodbye.');}
+
+function taro66() {alert('太郎が来た');}
+
+function hanako66() {alert('花子が来た');}
