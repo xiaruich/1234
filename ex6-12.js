@@ -2,3 +2,4 @@ function hyoji(){//表示する文字var str ="一文字ずつ表示します．
   if( con<11){//現在より1文字多く切り出して表示document.timer.moji.value=str.substr(0,cont+1);}
     else{//全て表示されたら、空文字入力戻すdosument.timer.moji.value="";}}
     function startnc(){//関数hyoji()を1000ミリ秒間隔で呼び出すsetlnterval("hoyji()",1000;}
+      const str = 'MOzilla';console.log(str.substr(1,2);//expected output:"oz"console.log(str.substr(2));//expected output:"zilla"
