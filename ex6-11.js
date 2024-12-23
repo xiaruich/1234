@@ -1,2 +1,2 @@
-function imgchange2(){document.getElementById('control-size').src='./image/keiei.small.jpg';}
-function imgmotosu2(){document.getElementById('control-size').src='./image/josai.png';}
+function imgchange2(){document.getElementById('control-size').src='./image/keiei_small.jpg';}
+function imgback2(){document.getElementById('control-size').src='./image/josai.png';}
